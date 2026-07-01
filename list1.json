@@ -1,6 +1,6 @@
 [
 
-  { "id": "1", "url": "https://devstreaming-cdn.apple.com//streaming/examples/img_bipbop_adv_example_ts/master.m3u8" },
+  { "id": "1", "url": "http://81.161.238.22:8080/live/play/Tnpsd2JrODFhVFE1VGtoa2VWcGFORFYyVFZkd2VWcHlhVTFXUkUxelRFcEhORGt6VWtsTE5qSTVXVDA9/244976" },
 
   { "id": "2", "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8" }
 
