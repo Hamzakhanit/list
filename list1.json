@@ -2,31 +2,31 @@
 
   { "id": "1", "url": "http://ogold.org/live/883118372/664928874/233072.m3u8" },
 
-  { "id": "2", "url": "http://81.31.194.24:8080/live/play/YjBSS2RVaGtjRTVEUVdKdU1IUmlVRU5MZDB0SVRsTXpla3R2WjFVMEwzUmFZazk0VW5aUFVYWnRTVDA9/444347" },
+  { "id": "2", "url": "http://ogold.org/live/883118372/664928874/443952.m3u8" },
 
-  { "id": "3", "url": "http://81.161.238.22:8080/hls/27af217849a4fa8b2bddfb5915b000c2/238480_0.ts" },
+  { "id": "3", "url": "http://ogold.org/live/883118372/664928874/443950.m3u8" },
 
-  { "id": "4", "url": "http://81.161.238.22:8080/hls/b05357504c452934ff730db05a0b7cbb/233072_2.ts" },
+  { "id": "4", "url": "http://ogold.org/live/883118372/664928874/346241.m3u8" },
 
-  { "id": "5", "url": "http://81.161.238.22:8080/hls/ceb03d814203549bf5e7a1831eb62577/233075_0.ts" },
+  { "id": "5", "url": "http://ogold.org/live/883118372/664928874/346242.m3u8" },
 
-  { "id": "6", "url": "http://81.31.194.24:8080/hls/b9f213e6599097d4a64c1475874157c5/346240_2.ts" },
+  { "id": "6", "url": "http://ogold.org/live/883118372/664928874/238476.m3u8" },
 
-  { "id": "7", "url": "http://81.31.194.24:8080/hls/4381a96d2b6b91f1b9544105fad5cbe9/444347_311.ts" },
+  { "id": "7", "url": "http://ogold.org/live/883118372/664928874/238477.m3u8" },
 
-  { "id": "8", "url": "http://81.161.238.22:8080/hls/def2e7df601a623d60928e320290bc28/443952_523.ts" },
+  { "id": "8", "url": "http://ogold.org/live/883118372/664928874/238478.m3u8" },
 
-  { "id": "9", "url": "http://81.161.238.22:8080/hls/02cbfea0edb69513719de0531b4f750c/443956_485.ts" },
+  { "id": "9", "url": "http://ogold.org/live/883118372/664928874/238479.m3u8" },
 
-  { "id": "10", "url": "http://81.161.238.24:8080/hls/8ad7039c7878d7bf623221741a959db2/443962_5.ts" },
+  { "id": "10", "url": "http://ogold.org/live/883118372/664928874/238481.m3u8" },
 
   { "id": "11", "url": "http://ogold.org/live/883118372/664928874/444001.m3u8" },
 
-  { "id": "12", "url": "http://81.161.238.22:8080/live/play/T0ZCNWRVVktRelZPV2xoS1RVTkhURkJMV2tJM01YWkdNMjVuVTNwNFMwOHpTVmxrU0VWdk5EVTRNRDA9/238482" },
+  { "id": "12", "url": "http://ogold.org/live/883118372/664928874/351593.m3u8" },
 
-  { "id": "13", "url": "http://81.161.238.22:8080/hls/277de995e67dbb8f2b15037baae00e8a/354029_0.ts" },
+  { "id": "13", "url": "http://ogold.org/live/883118372/664928874/354425.m3u8" },
 
-  { "id": "14", "url": "http://81.161.238.22:8080/hls/11c8dbc8b6b538f607f41134fde9385f/354030_0.ts" },
+  { "id": "14", "url": "http://ogold.org/live/883118372/664928874/348652.m3u8" },
 
   { "id": "15", "url": "http://81.161.238.22:8080/hls/63a12eff09a9b2ae6b5cbc8295151a44/354033_0.ts" }
 
