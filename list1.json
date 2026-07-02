@@ -1,33 +1,25 @@
 [
 
-  { "id": "1", "url": "http://ogold.org/live/883118372/664928874/233072.m3u8" },
+  { "id": "1", "url": "http://my.zeelex.org:8080/live/883118372/664928874/238480.m3u8" },
 
-  { "id": "2", "url": "http://ogold.org/live/883118372/664928874/443952.m3u8" },
+  { "id": "2", "url": "http://my.zeelex.org:8080/live/883118372/664928874/238478.m3u8" },
 
-  { "id": "3", "url": "http://ogold.org/live/883118372/664928874/443950.m3u8" },
+  { "id": "3", "url": "http://my.zeelex.org:8080/live/883118372/664928874/238477.m3u8" },
 
-  { "id": "4", "url": "http://ogold.org/live/883118372/664928874/346241.m3u8" },
+  { "id": "4", "url": "http://my.zeelex.org:8080/live/883118372/664928874/233080.m3u8" },
 
-  { "id": "5", "url": "http://ogold.org/live/883118372/664928874/346242.m3u8" },
+  { "id": "5", "url": "http://my.zeelex.org:8080/live/883118372/664928874/238480.m3u8" },
 
-  { "id": "6", "url": "http://ogold.org/live/883118372/664928874/238476.m3u8" },
+  { "id": "6", "url": "http://my.zeelex.org:8080/live/883118372/664928874/238478.m3u8" },
 
-  { "id": "7", "url": "http://ogold.org/live/883118372/664928874/238477.m3u8" },
+  { "id": "7", "url": "http://my.zeelex.org:8080/live/883118372/664928874/346241.m3u8" },
 
-  { "id": "8", "url": "http://ogold.org/live/883118372/664928874/238478.m3u8" },
+  { "id": "8", "url": "http://my.zeelex.org:8080/live/883118372/664928874/443952.m3u8" },
 
-  { "id": "9", "url": "http://ogold.org/live/883118372/664928874/238479.m3u8" },
+  { "id": "9", "url": "http://my.zeelex.org:8080/live/883118372/664928874/443956.m3u8" },
 
-  { "id": "10", "url": "http://ogold.org/live/883118372/664928874/238481.m3u8" },
+  { "id": "10", "url": "http://my.zeelex.org:8080/live/883118372/664928874/443962.m3u8" },
 
-  { "id": "11", "url": "http://ogold.org/live/883118372/664928874/444001.m3u8" },
-
-  { "id": "12", "url": "http://ogold.org/live/883118372/664928874/351593.m3u8" },
-
-  { "id": "13", "url": "http://ogold.org/live/883118372/664928874/354425.m3u8" },
-
-  { "id": "14", "url": "http://ogold.org/live/883118372/664928874/348652.m3u8" },
-
-  { "id": "15", "url": "http://81.161.238.22:8080/hls/63a12eff09a9b2ae6b5cbc8295151a44/354033_0.ts" }
+  { "id": "11", "url": "http://my.zeelex.org:8080/live/883118372/664928874/443968.m3u8" }
 
 ]
