@@ -8,11 +8,11 @@
 
   { "id": "4", "url": "http://190.108.83.69:8000/play/a05w/69009523.m3u8" },
 
-  { "id": "5", "url": "http://my.zeelex.org:8080/live/883118372/664928874/346242.m3u8" },
+  { "id": "5", "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8" },
 
-  { "id": "6", "url": "http://my.zeelex.org:8080/live/883118372/664928874/381323.m3u8" },
+  { "id": "6", "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8" },
 
-  { "id": "7", "url": "http://my.zeelex.org:8080/live/883118372/664928874/381324.m3u8" },
+  { "id": "7", "url": "http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8" },
 
   { "id": "8", "url": "http://my.zeelex.org:8080/live/883118372/664928874/381333.m3u8" },
 
