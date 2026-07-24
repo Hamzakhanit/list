@@ -1,25 +1,25 @@
 [
 
-  { "id": "1", "url": "http://198.204.229.234:82/live/fyzq.m3u8?jsbt=1784742553&jsbk=f7712c26632c40ebdf588d5dca5e55f8" },
+  { "id": "1", "url": "http://81.31.194.24:8080/live/play/TWt0aU1FSk9jMVZKU3pCSFdHcGhXVGhqU0ZNeU1qWjFTRUpGYm1WM1FUbFVNM1IwYmpoaE9WaGtXVDA9/346241" },
 
-  { "id": "2", "url": "https://d2w9q46ikgrcwx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/2d4eabb2-8cae-4b5b-ba96-bc206de673f6/1.m3u8" },
+  { "id": "2", "url": "http://81.161.238.22:8080/live/play/VWpRd1JGSkJVMHRqTkU4dk1WZEVNM2RFTUVzd1ozQlhXRTh5TTFRek1EUm1SRE16Y2psaFZXTTVZejA9/233075" },
 
-  { "id": "3", "url": "https://cffda8ff.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/c30e2945-ed44-42b5-8a69-5baa67818231/1.m3u8" },
+  { "id": "3", "url": "http://omax.vip/live/883118372/8504224060/238477.m3u8" },
 
-  { "id": "4", "url": "http://190.108.83.69:8000/play/a05w/69009523.m3u8" },
+  { "id": "4", "url": "http://omax.vip/live/883118372/8504224060/238478.m3u8" },
 
-  { "id": "5", "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8" },
+  { "id": "5", "url": "http://omax.vip/live/883118372/8504224060/238479.m3u8" },
 
-  { "id": "6", "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8" },
+  { "id": "6", "url": "http://omax.vip/live/883118372/8504224060/444348.m3u8" },
 
   { "id": "7", "url": "http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8" },
 
-  { "id": "8", "url": "http://185.102.171.218/CablenetSports1/tracks-v1a1/mono.m3u8" },
+  { "id": "8", "url": "http://omax.vip/live/883118372/8504224060/346240.m3u8" },
 
-  { "id": "9", "url": "http://185.102.171.218/CablenetSports2/tracks-v1a1/mono.m3u8" },
+  { "id": "9", "url": "http://omax.vip/live/883118372/8504224060/346241.m3u8" },
 
-  { "id": "10", "url": "http://185.102.171.218/Cytavisionsports4/tracks-a1/mono.m3u8" },
+  { "id": "10", "url": "http://omax.vip/live/883118372/8504224060/346244.m3u8" },
 
-  { "id": "11", "url": "https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/tracks-v1a1/mono.ts.m3u8" }
+  { "id": "11", "url": "http://omax.vip/live/883118372/8504224060/109994.m3u8" }
 
 ]
