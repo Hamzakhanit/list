@@ -1,25 +1,25 @@
 [
 
-  { "id": "1", "url": "http://omax.vip/live/883118372/8504224060/346241.m3u8" },
+  { "id": "1", "url": "http://190.108.83.69:8000/play/a05w/29372164.m3u8" },
 
-  { "id": "2", "url": "http://omax.vip/live/883118372/8504224060/381323.m3u8" },
+  { "id": "2", "url": "http://138.121.15.230:9002/WIN-SPORT/tracks-v1a1/mono.m3u8" },
 
-  { "id": "3", "url": "http://omax.vip/live/883118372/8504224060/238477.m3u8" },
+  { "id": "3", "url": "http://185.102.171.218/CablenetSports1/tracks-a1/mono.m3u8" },
 
-  { "id": "4", "url": "http://omax.vip/live/883118372/8504224060/238478.m3u8" },
+  { "id": "4", "url": "http://185.102.171.218/CablenetSports2/tracks-a1/mono.m3u8" },
 
-  { "id": "5", "url": "http://omax.vip/live/883118372/8504224060/238479.m3u8" },
+  { "id": "5", "url": "http://185.102.171.218/Cytavisionsports1/tracks-a1/mono.m3u8" },
 
-  { "id": "6", "url": "http://omax.vip/live/883118372/8504224060/444348.m3u8" },
+  { "id": "6", "url": "http://185.102.171.218/Cytavisionsports5/tracks-a1/mono.m3u8" },
 
-  { "id": "7", "url": "http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8" },
+  { "id": "7", "url": "https://dash2.antik.sk/live/sporty_tv/index.m3u8" },
 
-  { "id": "8", "url": "http://omax.vip/live/883118372/8504224060/346240.m3u8" },
+  { "id": "8", "url": "http://45.170.130.224:8000/play/a04i/94788535.m3u8" },
 
-  { "id": "9", "url": "http://omax.vip/live/883118372/8504224060/346241.m3u8" },
+  { "id": "9", "url": "https://d2w9q46ikgrcwx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/3e27fcfd-a74b-4790-8042-4e9b1d7a735e/1.m3u8" },
 
-  { "id": "10", "url": "http://omax.vip/live/883118372/8504224060/346244.m3u8" },
+  { "id": "10", "url": "https://cffda8ff.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/2b0edb69-46e4-4306-8cc8-c5fce0ec4786/1.m3u8" },
 
-  { "id": "11", "url": "http://omax.vip/live/883118372/8504224060/109994.m3u8" }
+  { "id": "11", "url": "http://142.54.178.42:82/live/fyzq.m3u8?jsbt=1784966708&jsbk=b5aacc7a348afc9b12e4b08358e53581" }
 
 ]
