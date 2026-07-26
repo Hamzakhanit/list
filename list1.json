@@ -1,25 +1,25 @@
 [
 
-  { "id": "1", "url": "https://d2w9q46ikgrcwx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/ecb5c774-8311-4351-aecb-7de925386fda/1.m3u8" },
+  { "id": "1", "url": "http://xtv.ooo:8080/live/5359729362/7221646892/346242.m3u8" },
 
-  { "id": "2", "url": "https://cdn24lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/live/Euro_Sport/chunks.m3u8?nimblesessionid=35870250&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDI2IDc6NTA6NTYgQU0maGFzaF92YWx1ZT0zU1BUeWdGYUxPeDZIam5Id1owL3BBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Eurosport-abr/playlist.m3u8" },
+  { "id": "2", "url": "http://xtv.ooo:8080/live/5359729362/7221646892/346241.m3u8" },
 
-  { "id": "3", "url": "https://live.teleradiocom.tj/8/3m.m3u8" },
+  { "id": "3", "url": "http://xtv.ooo:8080/live/5359729362/7221646892/238477.m3u8" },
 
-  { "id": "4", "url": "http://142.54.178.42:82/live/fyzq.m3u8?jsbt=1785050569&jsbk=641a4b5c36c70e92e0846534a54bd5b0" },
+  { "id": "4", "url": "http://xtv.ooo:8080/live/5359729362/7221646892/238478.m3u8" },
 
-  { "id": "5", "url": "http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8" },
+  { "id": "5", "url": "http://xtv.ooo:8080/live/5359729362/7221646892/444333.m3u8" },
 
-  { "id": "6", "url": "https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/63c6e37e636b7e0007ccb635/3063648/playlist.m3u8?sid=SAMSUNG-TVPLUS-cbb447ca-0324-4116-849a-70c14aefc264&deviceId=b0d5fba7-affe-49eb-b78e-f0994ee589fe&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjhkNzg0NWUzLTUwYTgtNGVmMS04MDk5LTA2ZDA3NTRkMzQyZCIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg1MTA4NDQ5LCJpYXQiOjE3ODUwMjIwNDksImp0aSI6IjU1ZWNhYmRmLWQ5YjMtNDM0MS1iMDY1LTJiOWE3MWUyZjNiYiJ9.aC92pa7eYr8y27e_Rbvg72IpVLxE3py7a1BM6v4j79w" },
+  { "id": "6", "url": "http://xtv.ooo:8080/live/5359729362/7221646892/233072.m3u8" },
 
-  { "id": "7", "url": "http://190.108.83.69:8000/play/a05w/59239102.m3u8" },
+  { "id": "7", "url": "http://xtv.ooo:8080/live/5359729362/7221646892/233075.m3u8" },
 
   { "id": "8", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8" },
 
-  { "id": "9", "url": "https://d2w9q46ikgrcwx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/3e27fcfd-a74b-4790-8042-4e9b1d7a735e/1.m3u8" },
+  { "id": "9", "url": "http://xtv.ooo:8080/live/5359729362/7221646892/167578.m3u8" },
 
-  { "id": "10", "url": "https://cffda8ff.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/2b0edb69-46e4-4306-8cc8-c5fce0ec4786/1.m3u8" },
+  { "id": "10", "url": "http://xtv.ooo:8080/live/5359729362/7221646892/444333.m3u8" },
 
-  { "id": "11", "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8" }
+  { "id": "11", "url": "http://xtv.ooo:8080/live/5359729362/7221646892/346244.m3u8" }
 
 ]
