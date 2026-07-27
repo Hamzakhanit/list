@@ -1,25 +1,25 @@
 [
 
-  { "id": "1", "url": "http://xtv.ooo:8080/live/5359729362/7221646892/346242.m3u8" },
+  { "id": "1", "url": "http://142.54.178.42:82/live/fyzq.m3u8?jsbt=1785137117&jsbk=60edb23fea6a547025b115f79f4f44e6" },
 
-  { "id": "2", "url": "http://xtv.ooo:8080/live/5359729362/7221646892/346241.m3u8" },
+  { "id": "2", "url": "http://185.102.171.218/Cytavisionsports4/index.m3u8" },
 
-  { "id": "3", "url": "http://xtv.ooo:8080/live/5359729362/7221646892/238477.m3u8" },
+  { "id": "3", "url": "https://d2w9q46ikgrcwx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/af71af34-9f0e-4f05-9346-e6a97724f0cf/1.m3u8" },
 
-  { "id": "4", "url": "http://xtv.ooo:8080/live/5359729362/7221646892/238478.m3u8" },
+  { "id": "4", "url": "https://cffda8ff.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/7d447aaf-f05b-4f86-b247-805e72ac52f2/3.m3u8" },
 
-  { "id": "5", "url": "http://xtv.ooo:8080/live/5359729362/7221646892/444333.m3u8" },
+  { "id": "5", "url": "http://185.102.171.218/Cytavisionsports5/index.m3u8" },
 
-  { "id": "6", "url": "http://xtv.ooo:8080/live/5359729362/7221646892/233072.m3u8" },
+  { "id": "6", "url": "http://185.102.171.218/Cytavisionsports1/index.m3u8" },
 
-  { "id": "7", "url": "http://xtv.ooo:8080/live/5359729362/7221646892/233075.m3u8" },
+  { "id": "7", "url": "http://185.102.171.218/Cytavisionsports3/index.m3u8" },
 
-  { "id": "8", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8" },
+  { "id": "8", "url": "http://190.108.83.69:8000/play/a05w/88104396.m3u8" },
 
-  { "id": "9", "url": "http://xtv.ooo:8080/live/5359729362/7221646892/167578.m3u8" },
+  { "id": "9", "url": "http://185.102.171.218/CablenetSports2/index.m3u8" },
 
-  { "id": "10", "url": "http://xtv.ooo:8080/live/5359729362/7221646892/444333.m3u8" },
+  { "id": "10", "url": "http://185.102.171.218/CablenetSports1/index.m3u8" },
 
-  { "id": "11", "url": "http://xtv.ooo:8080/live/5359729362/7221646892/346244.m3u8" }
+  { "id": "11", "url": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8" }
 
 ]
