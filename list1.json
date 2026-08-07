@@ -1,24 +1,24 @@
 [
 
-  { "id": "1", "url": "http://185.102.171.218/Cytavisionsports1/index.m3u8" },
+  { "id": "1", "url": "https://dash2.antik.sk/live/sporty_tv/index.m3u8" },
 
-  { "id": "2", "url": "http://185.102.171.218/Cytavisionsports2/index.m3u8" },
+  { "id": "2", "url": "http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8" },
 
-  { "id": "3", "url": "http://185.102.171.218/CablenetSports1/index.m3u8" },
+  { "id": "3", "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_540p.m3u8" },
 
-  { "id": "4", "url": "http://185.102.171.218/CablenetSports2/index.m3u8" },
+  { "id": "4", "url": "http://142.54.178.42:82/live/fyzq.m3u8?jsbt=1786131397&jsbk=07c8672be979d7f0d55ca767e6788b55" },
 
-  { "id": "5", "url": "http://185.102.171.218/Cytavisionsports3/index.m3u8" },
+  { "id": "5", "url": "https://edge-001.streamup.eu/sportitalia/sihd_abr/sportitalia/sihd_720p/chunks.m3u8" },
 
-  { "id": "6", "url": "http://185.102.171.218/Cytavisionsports4/index.m3u8" },
+  { "id": "6", "url": "http://stream.mcquack.net/333/index.m3u8" },
 
-  { "id": "7", "url": "http://185.102.171.218/Cytavisionsports5/index.m3u8" },
+  { "id": "7", "url": "https://d2w9q46ikgrcwx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/29de59cf-a500-4850-9ef6-7f0607ea5aab/3.m3u8" },
 
-  { "id": "8", "url": "http://190.108.83.69:8000/play/a05w/88104396.m3u8" },
+  { "id": "8", "url": "https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8" },
 
   { "id": "9", "url": "http://142.54.178.42:82/live/fyzq.m3u8?jsbt=1785345617&jsbk=7823492fcee12b144cca8e5d4eeaa259" },
 
-  { "id": "10", "url": "https://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8" },
+  { "id": "10", "url": "http://142.54.178.42:82/live/fyzq.m3u8?jsbt=1786130851&jsbk=1f4aafcd5dc2a42ab9f224c5d3d8f763" },
 
   { "id": "11", "url": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8" }
 
