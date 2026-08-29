@@ -2,7 +2,7 @@
 
   { "id": "1", "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol720.m3u8" },
 
-  { "id": "2", "url": "http://stream.mcquack.net/393/index.m3u8" },
+  { "id": "2", "url": "https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8" },
 
   { "id": "3", "url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub" },
 
@@ -12,7 +12,7 @@
 
   { "id": "6", "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8" },
 
-  { "id": "7", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8" },
+  { "id": "7", "url": "https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8" },
 
   { "id": "8", "url": "http://stream.mcquack.net/234/index.m3u8" },
 
@@ -30,13 +30,13 @@
 
   { "id": "15", "url": "https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8" },
 
-   { "id": "16", "url": "http://145.239.5.177/556a/index.m3u8" },
+   { "id": "16", "url": "https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8" },
 
    { "id": "17", "url": "https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8" },
 
    { "id": "18", "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8" },
 
-   { "id": "19", "url": "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8" },
+   { "id": "19", "url": "http://88.212.15.19/live/spiler1/index.m3u8" },
 
    { "id": "20", "url": "https://live-3.otcnet.ru/sportivny/index.m3u8" },
 
@@ -46,6 +46,8 @@
 
    { "id": "23", "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8" },
 
-   { "id": "24", "url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8" }
+   { "id": "24", "url": "http://stream.mcquack.net/393/index.m3u8" },
+
+   { "id": "25", "url": "http://88.212.15.19/live/spiler2/index.m3u8" }
 
 ]
