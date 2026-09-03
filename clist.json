@@ -6,26 +6,18 @@
 
   { "id": "3", "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8" },
 
-  { "id": "4", "url": "http://41.205.93.154/STARSPORTS1/index.m3u8" },
+  { "id": "4", "url": "https://playztv-apps.pages.dev/asports/index.m3u8" },
 
-  { "id": "5", "url": "https://playztv-apps.pages.dev/asports/index.m3u8" },
+  { "id": "5", "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8" },
 
-  { "id": "6", "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8" },
+  { "id": "6", "url": "http://59.103.38.46:8000/play/a126/index.m3u8" },
 
-  { "id": "7", "url": "http://59.103.38.46:8000/play/a126/index.m3u8" },
+  { "id": "7", "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8" },
 
-  { "id": "8", "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8" },
+  { "id": "8", "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8" },
 
-  { "id": "9", "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8" },
+  { "id": "9", "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8" },
 
-  { "id": "10", "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8" },
-
-  { "id": "11", "url": "https://starsportshindiii.pages.dev/index.m3u8" },
-
-  { "id": "12", "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc31a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFhOjE3ODgzNTk0NDk0MTg6Y2RubGl2ZXR2LnR2OmI4ZTY0OTkwMzEyYmQ1M2QuODI2OTEwZGUxNDQwMjE2NWU2ZGYwNGQ0YmRlZDI1MmYyZWJkMmEwYWRhNGRkZDEwNzRlMjQ5OTZhMGI0OTU4MQ" },
-
-  { "id": "13", "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc344/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3ODgzNTk0NTQ3NDg6Y2RubGl2ZXR2LnR2OjA0NmE4YTFlMmVlNzAzYWEuMDdhZDVmMDgwOGUyNjJjNGJhMWZiODMzNzA5ZDdmMzFiOGUwYjgzNzZlYWIzMTZlMWI1OTUxNzhkYjlhNTljZg" },
-
-  { "id": "14", "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc34a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzRhOjE3ODgzNTk0NDYzNDY6Y2RubGl2ZXR2LnR2OjNlNTk5ZjljODZmZWQ5MWQuZmRhMWEyMDlkNTNkNTBhYjE5M2ViY2I4YzliYzNiZGE3NzY1YmMxZTdlOGEzNWEyNDMzNjY2MTIyZWVmMWMwYg" }
+  { "id": "10", "url": "https://starsportshindiii.pages.dev/index.m3u8" }
 
 ]
