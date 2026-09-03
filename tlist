@@ -1,0 +1,23 @@
+[
+
+  { "id": "1", "url": "http://88.212.15.19/live/esp_4k_atk/playlist.m3u8" },
+
+  { "id": "2", "url": "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8" },
+
+  { "id": "3", "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8" },
+
+  { "id": "4", "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8" },
+
+  { "id": "5", "url": "https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8" },
+
+  { "id": "6", "url": "http://212.102.38.45/live/test_sport1_25p/playlist.m3u8" },
+
+  { "id": "7", "url": "https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8" },
+
+  { "id": "8", "url": "https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8" },
+
+  { "id": "9", "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc320/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIwOjE3ODg0NDQwNDgyMjY6Y2RubGl2ZXR2LnR2OmIzN2I3ZmE5NmJmNzVkNDEuYmViMTQyNzhhNTliMDMzNTU5MzkyZjNhMDA1MTQ1ZGU3ODMzMjViY2JlMjI2ZDczZWEwNDQ1ZTk3MWIzNDIxYQ" },
+
+  { "id": "10", "url": "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub" }
+
+]
