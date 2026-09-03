@@ -1,0 +1,27 @@
+[
+
+  { "id": "1", "url": "http://88.212.15.19/live/test_sport_2/playlist.m3u8" },
+
+  { "id": "2", "url": "http://88.212.15.19/live/sport1_hun/index.m3u8" },
+
+  { "id": "3", "url": "http://88.212.15.19/live/test_sport1_25p/playlist.m3u8" },
+
+  { "id": "4", "url": "https://nhl-firetv.amagi.tv/playlist.m3u8" },
+
+  { "id": "5", "url": "http://stream.mcquack.net/178/index.m3u8" },
+
+  { "id": "6", "url": "http://stream.mcquack.net/166/index.m3u8" },
+
+  { "id": "7", "url": "https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8" },
+
+  { "id": "8", "url": "http://stream.mcquack.net/492/index.m3u8" },
+
+  { "id": "9", "url": "https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8" },
+
+  { "id": "10", "url": "http://stream.mcquack.net/490/index.m3u8" },
+
+  { "id": "11", "url": "http://stream.mcquack.net/492/index.m3u8" },
+
+  { "id": "12", "url": "http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8" }
+
+]
