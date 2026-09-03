@@ -1,1 +1,21 @@
+[
 
+  { "id": "1", "url": "https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8" },
+
+  { "id": "2", "url": "https://tvsen6.aynaott.com/golfchannel/index.m3u8" },
+
+  { "id": "3", "url": "https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8" },
+
+  { "id": "4", "url": "http://88.212.15.19/live/esp_4k_atk/playlist.m3u8" },
+
+  { "id": "5", "url": "https://amg00721-amg00721c6-freelivesports-emea-9595.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00721-inverleigh-unbtn3row-freelivesportsemea/playlist.m3u8" },
+
+  { "id": "6", "url": "https://streams2.sofast.tv/ptnr-sportstribal/genre-Sports/lang-English/ctgr-Sport/title-Golf_Network/sofastplayout/b7500c3f-bd94-4725-abfd-2644e004132c/manifest.m3u8" },
+
+  { "id": "7", "url": "https://d2icntm6fhxrry.cloudfront.net/master.m3u8" },
+
+  { "id": "8", "url": "http://72.1.184.5:8089/play/a0cw/index.m3u8" },
+
+  { "id": "9", "url": "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub" }
+
+]
