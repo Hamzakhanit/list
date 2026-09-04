@@ -1,6 +1,6 @@
 [
 
-  { "id": "1", "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol720.m3u8" },
+  { "id": "1", "url": "https://tvsen6.aynaott.com/beinsports/index.m3u8" },
 
   { "id": "2", "url": "https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8" },
 
@@ -50,10 +50,12 @@
 
    { "id": "25", "url": "http://88.212.15.19/live/spiler2/index.m3u8" },
 
-   { "id": "26", "url": "https://tvsen6.aynaott.com/beinsports/index.m3u8" },
+   { "id": "26", "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol720.m3u8" },
 
    { "id": "27", "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8" },
 
-   { "id": "28", "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8" }
+   { "id": "28", "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8" },
+
+   { "id": "29", "url": "http://stream.mcquack.net/392/index.m3u8" }
 
 ]
