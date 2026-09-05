@@ -1,0 +1,33 @@
+[
+
+  { "id": "1", "url": "https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8" },
+
+  { "id": "2", "url": "https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8" },
+
+  { "id": "3", "url": "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8" },
+
+  { "id": "4", "url": "https://hls.shift.tv/live/shifttv/playlist.m3u8" },
+
+  { "id": "5", "url": "https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8" },
+
+  { "id": "6", "url": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8" },
+
+  { "id": "7", "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision%2B" },
+
+  { "id": "8", "url": "https://amg02278-amg02278c1-freelivesports-emea-7535.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02278-flosports-floracing24x7-freelivesportsemea/playlist.m3u8" },
+
+  { "id": "9", "url": "https://amg01074-fueltv-fueltvemeaen-sportstribal-n7krp.amagi.tv/ts-eu-w1-n2/playlist/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8" },
+
+  { "id": "10", "url": "https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8" },
+
+  { "id": "11", "url": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8" },
+
+  { "id": "12", "url": "https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetworkint-sportstribalemea/playlist.m3u8" },
+
+  { "id": "13", "url": "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8" },
+
+  { "id": "14", "url": "https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8" },
+
+  { "id": "15", "url": "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8" }
+
+]
