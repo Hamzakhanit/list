@@ -56,6 +56,8 @@
 
    { "id": "28", "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8" },
 
-   { "id": "29", "url": "http://stream.mcquack.net/392/index.m3u8" }
+   { "id": "29", "url": "http://stream.mcquack.net/392/index.m3u8" },
+
+   { "id": "30", "url": "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8" }
 
 ]
