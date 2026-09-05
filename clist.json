@@ -16,10 +16,6 @@
 
   { "id": "8", "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8" },
 
-  { "id": "9", "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8" },
-
-  { "id": "10", "url": "https://starsportshindiii.pages.dev/index.m3u8" },
-
-  { "id": "11", "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc31a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFhOjE3ODg1NTc0NDU0MDI6Y2RubGl2ZXR2LnR2OjFiZjZkZDk0Nzg0NTQ5ZTkuNGRmNjFiNmEzMjhkZTg5M2EzNjVkMTc5N2Q3ZWFkNDJjMjRjY2JhNTAzYTA2YWYxZWVkMjMxOTlhMWY2Nzc5YQ" }
+  { "id": "9", "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8" }
 
 ]
