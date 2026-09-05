@@ -1,0 +1,13 @@
+[
+
+  { "id": "1", "url": "https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8" },
+
+  { "id": "2", "url": "https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8" },
+
+  { "id": "3", "url": "http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub" },
+
+  { "id": "4", "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8" },
+
+  { "id": "5", "url": "https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8" }
+
+]
