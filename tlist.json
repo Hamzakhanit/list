@@ -10,24 +10,26 @@
 
   { "id": "5", "url": "https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8" },
 
-  { "id": "6", "url": "http://212.102.38.45/live/test_sport1_25p/playlist.m3u8" },
+  { "id": "6", "url": "https://tvsen5.aynaott.com/espn/index.m3u8" },
 
-  { "id": "7", "url": "https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8" },
+  { "id": "7", "url": "http://212.102.38.45/live/test_sport1_25p/playlist.m3u8" },
 
-  { "id": "8", "url": "https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8" },
+  { "id": "8", "url": "https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8" },
 
-  { "id": "9", "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc320/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIwOjE3ODg0NDQwNDgyMjY6Y2RubGl2ZXR2LnR2OmIzN2I3ZmE5NmJmNzVkNDEuYmViMTQyNzhhNTliMDMzNTU5MzkyZjNhMDA1MTQ1ZGU3ODMzMjViY2JlMjI2ZDczZWEwNDQ1ZTk3MWIzNDIxYQ" },
+  { "id": "9", "url": "https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8" },
 
-  { "id": "10", "url": "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub" },
+  { "id": "10", "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc320/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIwOjE3ODg0NDQwNDgyMjY6Y2RubGl2ZXR2LnR2OmIzN2I3ZmE5NmJmNzVkNDEuYmViMTQyNzhhNTliMDMzNTU5MzkyZjNhMDA1MTQ1ZGU3ODMzMjViY2JlMjI2ZDczZWEwNDQ1ZTk3MWIzNDIxYQ" },
 
-  { "id": "11", "url": "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8" },
+  { "id": "11", "url": "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub" },
 
-  { "id": "12", "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8" },
+  { "id": "12", "url": "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8" },
 
-  { "id": "13", "url": "https://playztv-apps.pages.dev/asports/index.m3u8" },
+  { "id": "13", "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8" },
 
-  { "id": "14", "url": "http://151.80.18.177:86/Eurosport_HD/index.m3u8" },
+  { "id": "14", "url": "https://playztv-apps.pages.dev/asports/index.m3u8" },
 
-  { "id": "15", "url": "https://amg00585-amg00585c10-sportstribal-emea-5519.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-acetv-sportstribalemea/playlist.m3u8" }
+  { "id": "15", "url": "http://151.80.18.177:86/Eurosport_HD/index.m3u8" },
+
+  { "id": "16", "url": "https://amg00585-amg00585c10-sportstribal-emea-5519.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-acetv-sportstribalemea/playlist.m3u8" }
 
 ]
