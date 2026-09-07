@@ -58,6 +58,8 @@
 
    { "id": "29", "url": "http://stream.mcquack.net/392/index.m3u8" },
 
-   { "id": "30", "url": "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8" }
+   { "id": "30", "url": "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8" },
+
+   { "id": "31", "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8" }
 
 ]
