@@ -1,0 +1,23 @@
+[
+
+  { "id": "1", "url": "https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8" },
+
+  { "id": "2", "url": "https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8" },
+
+  { "id": "3", "url": "https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8" },
+
+  { "id": "4", "url": "https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8" },
+
+  { "id": "5", "url": "http://88.212.15.19/live/esp_4k_atk/playlist.m3u8" },
+
+  { "id": "6", "url": "http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8" },
+
+  { "id": "7", "url": "http://stream.mcquack.net/457/index.m3u8" },
+
+  { "id": "8", "url": "http://151.80.18.177:86/Eurosport_HD/index.m3u8" },
+
+  { "id": "9", "url": "http://151.80.18.177:86/Eurosport_2_HD/index.m3u8" },
+
+  { "id": "10", "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8" }
+
+]
