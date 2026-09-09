@@ -14,6 +14,8 @@
 
   { "id": "7", "url": "http://23.237.104.106:8080/USA_ESPNU/index.m3u8" },
 
-  { "id": "8", "url": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8" }
+  { "id": "8", "url": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8" },
+
+  { "id": "9", "url": "https://pac12-firetv.amagi.tv/playlist.m3u8" }
 
 ]
