@@ -68,6 +68,8 @@
 
   { "id": "34", "url": "http://dtv.vol.net.ua/UPL-TV/index.m3u8" },
 
-  { "id": "35", "url": "http://170.83.49.66:8083/SPORTV3HD/index.m3u8" }
+  { "id": "35", "url": "http://170.83.49.66:8083/SPORTV3HD/index.m3u8" },
+
+  { "id": "36", "url": "http://stream.mcquack.net/72/index.m3u8" }
 
 ]
