@@ -22,80 +22,82 @@
 
   { "id": "11", "url": "http://stream.mcquack.net/392/index.m3u8" },
 
-  { "id": "12", "url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub" },
+  { "id": "12", "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8" },
 
-  { "id": "13", "url": "http://stream.mcquack.net/461/index.m3u8" },
+  { "id": "13", "url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub" },
 
-  { "id": "14", "url": "http://88.212.15.19/live/real_madrid_tv/index.m3u8" },
+  { "id": "14", "url": "http://stream.mcquack.net/461/index.m3u8" },
 
-  { "id": "15", "url": "http://stream.mcquack.net/493/index.m3u8" },
+  { "id": "15", "url": "http://88.212.15.19/live/real_madrid_tv/index.m3u8" },
 
-  { "id": "16", "url": "http://stream.mcquack.net/491/index.m3u8" },
+  { "id": "16", "url": "http://stream.mcquack.net/493/index.m3u8" },
 
-  { "id": "17", "url": "https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8" },
+  { "id": "17", "url": "http://stream.mcquack.net/491/index.m3u8" },
 
-  { "id": "18", "url": "https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8" },
+  { "id": "18", "url": "https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8" },
 
-  { "id": "19", "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8" },
+  { "id": "19", "url": "https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8" },
 
-  { "id": "20", "url": "http://88.212.15.19/live/spiler1/index.m3u8" },
+  { "id": "20", "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8" },
 
-  { "id": "21", "url": "https://live-3.otcnet.ru/sportivny/index.m3u8" },
+  { "id": "21", "url": "http://88.212.15.19/live/spiler1/index.m3u8" },
 
-  { "id": "22", "url": "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8" },
+  { "id": "22", "url": "https://live-3.otcnet.ru/sportivny/index.m3u8" },
 
-  { "id": "23", "url": "https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8" },
+  { "id": "23", "url": "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8" },
 
-  { "id": "24", "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8" },
+  { "id": "24", "url": "https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8" },
 
-  { "id": "25", "url": "http://stream.mcquack.net/393/index.m3u8" },
+  { "id": "25", "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8" },
 
-  { "id": "26", "url": "http://88.212.15.19/live/spiler2/index.m3u8" },
+  { "id": "26", "url": "http://stream.mcquack.net/393/index.m3u8" },
 
-  { "id": "27", "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol720.m3u8" },
+  { "id": "27", "url": "http://88.212.15.19/live/spiler2/index.m3u8" },
 
-  { "id": "28", "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8" },
+  { "id": "28", "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol720.m3u8" },
 
-  { "id": "29", "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8" },
+  { "id": "29", "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8" },
 
-  { "id": "30", "url": "http://88.212.15.19/live/uatlmvixrr/index.m3u8" },
+  { "id": "30", "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8" },
 
-  { "id": "31", "url": "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8" },
+  { "id": "31", "url": "http://88.212.15.19/live/uatlmvixrr/index.m3u8" },
 
-  { "id": "32", "url": "http://179.60.224.196:8000/play/a0i7/index.m3u8" },
+  { "id": "32", "url": "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8" },
 
-  { "id": "33", "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8" },
+  { "id": "33", "url": "http://179.60.224.196:8000/play/a0i7/index.m3u8" },
 
-  { "id": "34", "url": "http://170.83.49.66:8083/SPORTV3HD/index.m3u8" },
+  { "id": "34", "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8" },
 
-  { "id": "35", "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8" },
+  { "id": "35", "url": "http://170.83.49.66:8083/SPORTV3HD/index.m3u8" },
 
-  { "id": "36", "url": "http://190.61.90.17:40000/play/a03v/index.m3u8" },
+  { "id": "36", "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8" },
 
-  { "id": "37", "url": "https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8" },
+  { "id": "37", "url": "http://190.61.90.17:40000/play/a03v/index.m3u8" },
 
-  { "id": "38", "url": "https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8" },
+  { "id": "38", "url": "https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8" },
 
-  { "id": "39", "url": "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8" },
+  { "id": "39", "url": "https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8" },
 
-  { "id": "40", "url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8" },
+  { "id": "40", "url": "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8" },
 
-  { "id": "41", "url": "https://aym-as.otteravision.com/aym/as/as_1080p.m3u8" },
+  { "id": "41", "url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8" },
 
-  { "id": "42", "url": "http://45.170.130.224:8000/play/a04k/index.m3u8" },
+  { "id": "42", "url": "https://aym-as.otteravision.com/aym/as/as_1080p.m3u8" },
 
-  { "id": "43", "url": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8" },
+  { "id": "43", "url": "http://45.170.130.224:8000/play/a04k/index.m3u8" },
 
-  { "id": "44", "url": "http://191.97.49.82:8001/play/a00m/index.m3u8" },
+  { "id": "44", "url": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8" },
 
-  { "id": "45", "url": "http://190.117.20.37:8000/play/a08d/index.m3u8" },
+  { "id": "45", "url": "http://191.97.49.82:8001/play/a00m/index.m3u8" },
 
-  { "id": "46", "url": "https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8" },
+  { "id": "46", "url": "http://190.117.20.37:8000/play/a08d/index.m3u8" },
 
-  { "id": "47", "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8" },
+  { "id": "47", "url": "https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8" },
 
-  { "id": "48", "url": "http://212.102.38.45/live/test_sport1_25p/playlist.m3u8" },
+  { "id": "48", "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8" },
 
-  { "id": "49", "url": "http://stream.mcquack.net/396/index.m3u8" }
+  { "id": "49", "url": "http://212.102.38.45/live/test_sport1_25p/playlist.m3u8" },
+
+  { "id": "50", "url": "http://stream.mcquack.net/396/index.m3u8" }
 
 ]
