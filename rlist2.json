@@ -6,11 +6,11 @@
 
   { "id": "3", "url": "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8" },
 
-  { "id": "4", "url": "https://hls.shift.tv/live/shifttv/playlist.m3u8" },
+  { "id": "4", "url": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8" },
 
   { "id": "5", "url": "https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8" },
 
-  { "id": "6", "url": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8" },
+  { "id": "6", "url": "https://hls.shift.tv/live/shifttv/playlist.m3u8" },
 
   { "id": "7", "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision%2B" },
 
