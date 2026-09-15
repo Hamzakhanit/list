@@ -18,6 +18,8 @@
 
   { "id": "9", "url": "http://151.80.18.177:86/Eurosport_2_HD/index.m3u8" },
 
-  { "id": "10", "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8" }
+  { "id": "10", "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8" },
+
+  { "id": "11", "url": "http://stream.mcquack.net/392/index.m3u8" }
 
 ]
