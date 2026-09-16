@@ -88,18 +88,28 @@
 
   { "id": "44", "url": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8" },
 
-  { "id": "45", "url": "http://191.97.49.82:8001/play/a00m/index.m3u8" },
+  { "id": "45", "url": "http://stream.mcquack.net/130/index.m3u8" },
 
-  { "id": "46", "url": "http://190.117.20.37:8000/play/a08d/index.m3u8" },
+  { "id": "46", "url": "http://stream.mcquack.net/142/index.m3u8" },
 
-  { "id": "47", "url": "https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8" },
+  { "id": "47", "url": "http://stream.mcquack.net/169/index.m3u8" },
 
-  { "id": "48", "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8" },
+  { "id": "48", "url": "http://stream.mcquack.net/185/index.m3u8" },
 
-  { "id": "49", "url": "http://212.102.38.45/live/test_sport1_25p/playlist.m3u8" },
+  { "id": "49", "url": "http://stream.mcquack.net/193/index.m3u8" },
 
-  { "id": "50", "url": "http://stream.mcquack.net/396/index.m3u8" },
+  { "id": "50", "url": "http://191.97.49.82:8001/play/a00m/index.m3u8" },
 
-  { "id": "51", "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8" }
+  { "id": "51", "url": "http://190.117.20.37:8000/play/a08d/index.m3u8" },
+
+  { "id": "52", "url": "https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8" },
+
+  { "id": "53", "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8" },
+
+  { "id": "54", "url": "http://212.102.38.45/live/test_sport1_25p/playlist.m3u8" },
+
+  { "id": "55", "url": "http://stream.mcquack.net/396/index.m3u8" },
+
+  { "id": "56", "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8" }
 
 ]
