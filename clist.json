@@ -2,13 +2,13 @@
   
   { "id": "1", "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8" },
 
-  { "id": "2", "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8" },
+  { "id": "2", "url": "" },
 
   { "id": "3", "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8" },
 
   { "id": "4", "url": "http://59.103.38.46:8000/play/a126/index.m3u8" },
 
-  { "id": "5", "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8" },
+  { "id": "5", "url": "" },
 
   { "id": "6", "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8" },
 
@@ -20,18 +20,18 @@
 
   { "id": "10", "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8" },
 
-  { "id": "11", "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8" },
+  { "id": "11", "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8" },
 
   { "id": "12", "url": "http://45.12.32.190:8080/UK-SkySport1NZ/video.m3u8" },
 
-  { "id": "13", "url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19146/index.m3u8" },
+  { "id": "13", "url": "https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8" },
 
   { "id": "14", "url": "https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8" },
 
   { "id": "15", "url": "https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8" },
 
-  { "id": "16", "url": "https://tvsen3.aynaott.com/Sports3/mono.m3u8" },
+  { "id": "16", "url": "http://59.103.38.46:8000/play/a00b/index.m3u8" },
 
-  { "id": "17", "url": "https://tvsen3.aynaott.com/Sports1/mono.m3u8" }
+  { "id": "17", "url": "http://59.103.38.46:8000/play/a00c/index.m3u8" }
 
 ]
