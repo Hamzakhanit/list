@@ -7,23 +7,25 @@
   { "id": "3", "url": "http://tvsen7.aynascope.net/tsn2/index.m3u8" },
 
   { "id": "4", "url": "http://tvsen7.aynascope.net/tsn3/index.m3u8" },
+
+  { "id": "5", "url": "http://45.12.32.190:8080/UK-SkySport2NZ/video.m3u8" },
+
+  { "id": "6", "url": "http://45.12.32.190:8080/UK-SkySport3NZ/video.m3u8" },
   
-  { "id": "5", "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8" },
+  { "id": "7", "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8" },
 
-  { "id": "6", "url": "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8" },
+  { "id": "8", "url": "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8" },
 
-  { "id": "7", "url": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8" },
+  { "id": "9", "url": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8" },
 
-  { "id": "8", "url": "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8" },
+  { "id": "10", "url": "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8" },
 
-  { "id": "9", "url": "https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8" },
+  { "id": "11", "url": "https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8" },
 
-  { "id": "10", "url": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8" },
+  { "id": "12", "url": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8" },
 
-  { "id": "11", "url": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8" },
+  { "id": "13", "url": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8" },
 
-  { "id": "12", "url": "https://pac12-firetv.amagi.tv/playlist.m3u8" },
-
-  { "id": "13", "url": "http://45.12.32.190:8080/UK-SkySport3NZ/video.m3u8" }
+  { "id": "14", "url": "https://pac12-firetv.amagi.tv/playlist.m3u8" }
 
 ]
