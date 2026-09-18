@@ -16,6 +16,8 @@
 
   { "id": "8", "url": "http://72.1.184.5:8089/play/a0cw/index.m3u8" },
 
-  { "id": "9", "url": "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub" }
+  { "id": "9", "url": "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub" },
+
+  { "id": "10", "url": "http://45.12.32.190:8080/UK-SkySport1NZ/video.m3u8" }
 
 ]
