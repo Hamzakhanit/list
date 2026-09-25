@@ -8,36 +8,40 @@
 
   { "id": "4", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/69659.m3u8" },
 
-  { "id": "5", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/138787.m3u8" },  
+  { "id": "5", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/138787.m3u8" },
+
+  { "id": "6", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1102893.m3u8" },  
+
+  { "id": "7", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/77413.m3u8" },  
   
-  { "id": "6", "url": "https://97bf7b92.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9SdWdieVBhc3NUVl9ITFM/playlist.m3u8?ads.wurl_channel=1872&ads.wurl_name=RugbyPassTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D" },
+  { "id": "8", "url": "https://97bf7b92.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9SdWdieVBhc3NUVl9ITFM/playlist.m3u8?ads.wurl_channel=1872&ads.wurl_name=RugbyPassTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D" },
 
-  { "id": "7", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/69660.m3u8" },
+  { "id": "9", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/69660.m3u8" },
 
-  { "id": "8", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/69659.m3u8" },
+  { "id": "10", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/69659.m3u8" },
 
-  { "id": "9", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/69658.m3u8" },
+  { "id": "11", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/69658.m3u8" },
 
-  { "id": "10", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/579825.m3u8" },
+  { "id": "12", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/579825.m3u8" },
 
-  { "id": "11", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/579824.m3u8" },
+  { "id": "13", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/579824.m3u8" },
   
-  { "id": "12", "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8" },
+  { "id": "14", "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8" },
 
-  { "id": "13", "url": "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8" },
+  { "id": "15", "url": "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8" },
 
-  { "id": "14", "url": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8" },
+  { "id": "16", "url": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8" },
 
-  { "id": "15", "url": "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8" },
+  { "id": "17", "url": "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8" },
 
-  { "id": "16", "url": "https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8" },
+  { "id": "18", "url": "https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8" },
 
-  { "id": "17", "url": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8" },
+  { "id": "19", "url": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8" },
 
-  { "id": "18", "url": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8" },
+  { "id": "20", "url": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8" },
 
-  { "id": "19", "url": "https://pac12-firetv.amagi.tv/playlist.m3u8" },
+  { "id": "21", "url": "https://pac12-firetv.amagi.tv/playlist.m3u8" },
 
-  { "id": "20", "url": "http://stream.bottledesk.net/p/AQNASgYGemc/index.m3u8" }
+  { "id": "22", "url": "http://stream.bottledesk.net/p/AQNASgYGemc/index.m3u8" }
 
 ]
