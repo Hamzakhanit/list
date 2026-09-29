@@ -1,39 +1,35 @@
 [
   
-  { "id": "1", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1775974.m3u8" },
+  { "id": "1", "url": "" },
 
-  { "id": "2", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/303627.m3u8" },
+  { "id": "2", "url": "" },
 
-  { "id": "3", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1775974.m3u8" },
+  { "id": "3", "url": "" },
 
-  { "id": "4", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/197185.m3u8" },
+  { "id": "4", "url": "" },
 
-  { "id": "5", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/49241.m3u8" },
-  
-  { "id": "6", "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8" },
+  { "id": "5", "url": "" },
 
-  { "id": "7", "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8" },
+  { "id": "6", "url": "" },
 
-  { "id": "8", "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8" },
+  { "id": "7", "url": "" },
 
-  { "id": "9", "url": "http://59.103.38.46:8000/play/a126/index.m3u8" },
+  { "id": "8", "url": "" },
 
-  { "id": "10", "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8" },
+  { "id": "9", "url": "" },
 
-  { "id": "11", "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8" },
+  { "id": "10", "url": "" },
 
-  { "id": "12", "url": "http://59.103.38.46:8000/play/a00a/index.m3u8" },
+  { "id": "11", "url": "" },
 
-  { "id": "13", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/579826.m3u8" },
+  { "id": "12", "url": "" },
 
-  { "id": "14", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/579824.m3u8" },
+  { "id": "13", "url": "" },
 
-  { "id": "15", "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8" },
+  { "id": "14", "url": "" },
 
-  { "id": "16", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/10514.m3u8" },
+  { "id": "15", "url": "" },
 
-  { "id": "17", "url": "https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8" },
-
-  { "id": "18", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/282231.m3u8" }
+  { "id": "16", "url": "" }
 
 ]
