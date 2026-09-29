@@ -1,21 +1,33 @@
 [
   
-  { "id": "1", "url": "https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8" },
+   { "id": "1", "url": "" },
 
-  { "id": "2", "url": "https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8" },
+  { "id": "2", "url": "" },
 
-  { "id": "3", "url": "http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub" },
-  
-  { "id": "4", "url": "http://stream.mcquack.net/176/index.m3u8" },
-  
-  { "id": "5", "url": "http://stream.mcquack.net/192/index.m3u8" },
+  { "id": "3", "url": "" },
 
-  { "id": "6", "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8" },
+  { "id": "4", "url": "" },
 
-  { "id": "7", "url": "https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8" },
+  { "id": "5", "url": "" },
 
-  { "id": "8", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/12855.m3u8" },
+  { "id": "6", "url": "" },
 
-  { "id": "9", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/12854.m3u8" }
+  { "id": "7", "url": "" },
+
+  { "id": "8", "url": "" },
+
+  { "id": "9", "url": "" },
+
+  { "id": "10", "url": "" },
+
+  { "id": "11", "url": "" },
+
+  { "id": "12", "url": "" },
+
+  { "id": "13", "url": "" },
+
+  { "id": "14", "url": "" },
+
+  { "id": "15", "url": "" }
 
 ]
