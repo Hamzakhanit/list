@@ -8,7 +8,7 @@
 
   { "id": "4", "url": "https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8" },
 
-  { "id": "5", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/12351.m3u8" },
+  { "id": "5", "url": "https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8" },
 
   { "id": "6", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/12352.m3u8" },
 
@@ -26,6 +26,8 @@
 
   { "id": "13", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/13135.m3u8" },
 
-  { "id": "14", "url": "http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8" }
+  { "id": "14", "url": "http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8" },
+
+  { "id": "15", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/12351.m3u8" }
 
 ]
