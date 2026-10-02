@@ -1,29 +1,23 @@
 [
 
-  { "id": "1", "url": "" },
+  { "id": "1", "url": "http://stream.mcquack.net/333/index.m3u8" },
 
-  { "id": "2", "url": "" },
+  { "id": "2", "url": "http://stream.mcquack.net/457/index.m3u8" },
 
-  { "id": "3", "url": "" },
+  { "id": "3", "url": "http://stream.mcquack.net/444/index.m3u8" },
 
-  { "id": "4", "url": "" },
+  { "id": "4", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/10783.m3u8" },
 
-  { "id": "5", "url": "" },
+  { "id": "5", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/287236.m3u8" },
 
-  { "id": "6", "url": "" },
+  { "id": "6", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/196856.m3u8" },
 
-  { "id": "7", "url": "" },
+  { "id": "7", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/196857.m3u8" },
 
-  { "id": "8", "url": "" },
+  { "id": "8", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1900056.m3u8" },
 
-  { "id": "9", "url": "" },
+  { "id": "9", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/268033.m3u8" },
 
-  { "id": "10", "url": "" },
-
-  { "id": "11", "url": "" },
-
-  { "id": "12", "url": "" },
-
-  { "id": "13", "url": "" }
+  { "id": "10", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/14743.m3u8" }
 
 ]
