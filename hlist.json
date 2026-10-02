@@ -28,6 +28,8 @@
 
   { "id": "14", "url": "http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8" },
 
-  { "id": "15", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/12351.m3u8" }
+  { "id": "15", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/12351.m3u8" },
+
+  { "id": "16", "url": "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8" }
 
 ]
