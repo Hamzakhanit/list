@@ -78,6 +78,10 @@
 
   { "id": "39", "url": "https://dokagents.site/live/pr2/mono.m3u8" },
 
-  { "id": "40", "url": "https://dokagents.site/live/pr5/mono.m3u8" }
+  { "id": "40", "url": "https://dokagents.site/live/pr5/mono.m3u8" },
+
+  { "id": "41", "url": "https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8" },
+
+  { "id": "42", "url": "http://88.212.15.19/live/uatlmvixrr/index.m3u8" }
 
 ]
