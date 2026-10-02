@@ -6,39 +6,39 @@
 
   { "id": "3", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/50150.m3u8" },
 
-  { "id": "4", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1331237.m3u8" },
+  { "id": "4", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/54879.m3u8" },
 
-  { "id": "5", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1331238.m3u8" },
+  { "id": "5", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/30861.m3u8" },
 
-  { "id": "6", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1331239.m3u8" },
+  { "id": "6", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/30860.m3u8" },
 
-  { "id": "7", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1331240.m3u8" },
+  { "id": "7", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/30859.m3u8" },
 
-  { "id": "8", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1331241.m3u8" },
+  { "id": "8", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/2086520.m3u8" },
 
-  { "id": "9", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/205912.m3u8" },
+  { "id": "9", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/2086521.m3u8" },
 
-  { "id": "10", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/54879.m3u8" },
+  { "id": "10", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/117126.m3u8" },
 
-  { "id": "11", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/30861.m3u8" },
+  { "id": "11", "url": "http://181.78.12.119:16123/play/ch19/index.m3u8" },
 
-  { "id": "12", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/30860.m3u8" },
+  { "id": "12", "url": "http://59.103.38.46:8000/play/a126/index.m3u8" },
 
-  { "id": "13", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/30859.m3u8" },
+  { "id": "13", "url": "https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv" },
 
-  { "id": "14", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/2086520.m3u8" },
+  { "id": "14", "url": "http://stream.mcquack.net/392/index.m3u8" },
 
-  { "id": "15", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/2086521.m3u8" },
+  { "id": "15", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1331237.m3u8" },
 
-  { "id": "16", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/117126.m3u8" },
+  { "id": "16", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1331238.m3u8" },
 
-  { "id": "17", "url": "http://181.78.12.119:16123/play/ch19/index.m3u8" },
+  { "id": "17", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1331239.m3u8" },
 
-  { "id": "18", "url": "http://59.103.38.46:8000/play/a126/index.m3u8" },
+  { "id": "18", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1331240.m3u8" },
 
-  { "id": "19", "url": "https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv" },
+  { "id": "19", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1331241.m3u8" },
 
-  { "id": "20", "url": "http://stream.mcquack.net/392/index.m3u8" },
+  { "id": "20", "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/205912.m3u8" },
 
   { "id": "21", "url": "http://stream.mcquack.net/393/index.m3u8" },
 
@@ -60,6 +60,24 @@
 
   { "id": "30", "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8" },
 
-  { "id": "31", "url": "http://stream.mcquack.net/72/index.m3u8" }
+  { "id": "31", "url": "http://stream.mcquack.net/72/index.m3u8" },
+
+  { "id": "32", "url": "https://dokagents.site/live/digisport1/mono.m3u8" },
+
+  { "id": "33", "url": "http://15.204.146.163:8002/play/a00g/index.m3u8" },
+
+  { "id": "34", "url": "http://187.102.208.209:8000/play/a0bq/index.m3u8" },
+
+  { "id": "35", "url": "https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8" },
+
+  { "id": "36", "url": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8" },
+
+  { "id": "37", "url": "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8" },
+
+  { "id": "38", "url": "https://dokagents.site/live/pr1/mono.m3u8" },
+
+  { "id": "39", "url": "https://dokagents.site/live/pr2/mono.m3u8" },
+
+  { "id": "40", "url": "https://dokagents.site/live/pr5/mono.m3u8" }
 
 ]
